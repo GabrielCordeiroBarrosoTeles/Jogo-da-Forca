@@ -13,7 +13,6 @@ Um jogo clássico de forca implementado em Python, onde o jogador deve adivinhar
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Contribuições](#contribuições)
 - [Colaboradores](#colaboradores)
-- [Licença](#licença)
 
 ---
 
@@ -27,11 +26,11 @@ No **Jogo da Forca**, o jogador tenta adivinhar uma palavra, letra por letra ou 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-forca.git
+   git clone https://github.com/GabrielCordeiroBarrosoTeles/Jogo-da-Forca.git
    ```
 2. **Navegue até o diretório do projeto:**
    ```bash
-   cd jogo-da-forca
+   cd Jogo-da-Forca
    ```
 3. **Execute o jogo:**
    ```bash
@@ -50,7 +49,7 @@ No **Jogo da Forca**, o jogador tenta adivinhar uma palavra, letra por letra ou 
 ## Estrutura do Projeto
 
 ```plaintext
-jogo-da-forca/
+cd Jogo-da-Forca/
 ├── main.py         # Ponto de entrada do jogo.
 ├── jogo.py         # Lógica principal do jogo.
 ├── palavras.py     # Seleção aleatória de palavras.
@@ -85,7 +84,5 @@ Contribuições são sempre bem-vindas! Para contribuir:
 | Nome do Colaborador | Foto | GitHub |
 | ------------------- | :--: | ------ |
 | **[Francisco Luiz](https://github.com/FLuiiz13)** | ![Foto do Colaborador](https://avatars.githubusercontent.com/FLuiiz13?s=100) | [@FLuiiz13](https://github.com/FLuiiz13) |
-
-> **Dica:** Substitua `usuario` e `Nome do Colaborador` pelas informações reais do colaborador.
 
 ---
