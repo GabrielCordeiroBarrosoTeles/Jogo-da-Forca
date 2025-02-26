@@ -86,6 +86,4 @@ Contribuições são sempre bem-vindas! Para contribuir:
 | ------------------- | :--: | ------ |
 | **[Francisco Luiz](https://github.com/FLuiiz13)** | ![Foto do Colaborador](https://avatars.githubusercontent.com/FLuiiz13?s=100) | [@FLuiiz13](https://github.com/FLuiiz13) |
 
-> **Dica:** Substitua `usuario` e `Nome do Colaborador` pelas informações reais do colaborador.
-
 ---
