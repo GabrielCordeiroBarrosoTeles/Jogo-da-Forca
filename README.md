@@ -27,7 +27,7 @@ No **Jogo da Forca**, o jogador tenta adivinhar uma palavra, letra por letra ou 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-forca.git
+   git clone https://github.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles.git
    ```
 2. **Navegue até o diretório do projeto:**
    ```bash
