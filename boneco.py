@@ -1,5 +1,5 @@
 def exibir_boneco(tries):
-    stages = [
+    etapas = [
         '''
            -----
            |   |
@@ -64,4 +64,4 @@ def exibir_boneco(tries):
         --------
         '''
     ]
-    return stages[tries]
+    return etapas[tries]
